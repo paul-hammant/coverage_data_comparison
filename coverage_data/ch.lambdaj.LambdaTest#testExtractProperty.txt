@@ -3,7 +3,7 @@ target.ch.lambdaj.Lambda-511:fc
 target.ch.lambdaj.Lambda-512:fc 
 target.ch.lambdaj.Lambda-513:fc 
 target.ch.lambdaj.Lambda-1016:fc 
-target.ch.lambdaj.Lambda-1017:fc 
+target.ch.lambdaj.Lambda-1017:fc bfc 
 target.ch.lambdaj.Lambda-1018:fc 
 target.ch.lambdaj.Lambda-1030:fc 
 target.ch.lambdaj.Lambda-1103:fc 
@@ -31,10 +31,10 @@ target.ch.lambdaj.function.convert.PropertyExtractor-21:fc
 target.ch.lambdaj.function.convert.PropertyExtractor-22:fc 
 target.ch.lambdaj.function.convert.PropertyExtractor-23:fc 
 target.ch.lambdaj.function.convert.PropertyExtractor-30:fc 
-target.ch.lambdaj.util.IntrospectionUtil-37:pc 
+target.ch.lambdaj.util.IntrospectionUtil-37:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-38:fc 
-target.ch.lambdaj.util.IntrospectionUtil-39:pc 
+target.ch.lambdaj.util.IntrospectionUtil-39:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-41:fc 
 target.ch.lambdaj.util.IntrospectionUtil-43:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-49:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-50:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

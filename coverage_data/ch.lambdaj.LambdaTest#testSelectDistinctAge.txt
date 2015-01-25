@@ -1,6 +1,6 @@
 target.ch.lambdaj.Lambda-447:fc 
-target.ch.lambdaj.Lambda-470:pc 
-target.ch.lambdaj.Lambda-471:fc 
+target.ch.lambdaj.Lambda-470:pc bpc 
+target.ch.lambdaj.Lambda-471:fc bfc 
 target.ch.lambdaj.Lambda-472:fc 
 target.ch.lambdaj.Lambda-510:fc 
 target.ch.lambdaj.Lambda-511:fc 
@@ -21,12 +21,12 @@ target.ch.lambdaj.function.aggregate.PairAggregator-14:fc
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
 target.ch.lambdaj.function.compare.ComparatorUtil-25:fc 
-target.ch.lambdaj.function.compare.ComparatorUtil-29:pc 
-target.ch.lambdaj.function.compare.ComparatorUtil-30:pc 
+target.ch.lambdaj.function.compare.ComparatorUtil-29:pc bpc 
+target.ch.lambdaj.function.compare.ComparatorUtil-30:pc bpc 
 target.ch.lambdaj.function.compare.ComparatorUtil-47:fc 
 target.ch.lambdaj.function.compare.ComparatorUtil-48:fc 
-target.ch.lambdaj.function.compare.ComparatorUtil-54:pc 
-target.ch.lambdaj.function.compare.ComparatorUtil-55:pc 
+target.ch.lambdaj.function.compare.ComparatorUtil-54:pc bpc 
+target.ch.lambdaj.function.compare.ComparatorUtil-55:pc bpc 
 target.ch.lambdaj.function.compare.ComparatorUtil-59:fc 
 target.ch.lambdaj.function.compare.ComparatorUtil-60:fc 
 target.ch.lambdaj.function.compare.ComparatorUtil-71:fc 
@@ -37,10 +37,10 @@ target.ch.lambdaj.function.compare.PropertyComparator-25:fc
 target.ch.lambdaj.function.compare.PropertyComparator-26:fc 
 target.ch.lambdaj.function.compare.PropertyComparator-27:fc 
 target.ch.lambdaj.function.compare.PropertyComparator-34:fc 
-target.ch.lambdaj.util.IntrospectionUtil-37:pc 
+target.ch.lambdaj.util.IntrospectionUtil-37:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-38:fc 
-target.ch.lambdaj.util.IntrospectionUtil-39:pc 
+target.ch.lambdaj.util.IntrospectionUtil-39:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-41:fc 
 target.ch.lambdaj.util.IntrospectionUtil-43:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-49:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-50:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

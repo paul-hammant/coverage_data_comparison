@@ -8,6 +8,6 @@ target.ch.lambdaj.collection.LambdaMap-206:fc
 target.ch.lambdaj.collection.LambdaMap-217:fc 
 target.ch.lambdaj.collection.LambdaMap-218:fc 
 target.ch.lambdaj.collection.LambdaMap-219:fc 
-target.ch.lambdaj.util.IntrospectionUtil-162:pc 
+target.ch.lambdaj.util.IntrospectionUtil-162:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-165:fc 
 target.ch.lambdaj.util.IntrospectionUtil-166:fc 

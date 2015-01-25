@@ -1,7 +1,7 @@
 target.ch.lambdaj.Lambda-90:fc 
-target.ch.lambdaj.Lambda-91:pc 
+target.ch.lambdaj.Lambda-91:pc bpc 
 target.ch.lambdaj.Lambda-92:fc 
-target.ch.lambdaj.Lambda-107:pc 
+target.ch.lambdaj.Lambda-107:pc bpc 
 target.ch.lambdaj.Lambda-108:fc 
 target.ch.lambdaj.Lambda-129:fc 
 target.ch.lambdaj.Lambda-144:fc 
@@ -29,31 +29,31 @@ target.ch.lambdaj.proxy.ProxyIterator-31:fc
 target.ch.lambdaj.proxy.ProxyIterator-32:fc 
 target.ch.lambdaj.proxy.ProxyIterator-33:fc 
 target.ch.lambdaj.proxy.ProxyIterator-81:fc 
-target.ch.lambdaj.proxy.ProxyUtil-33:pc 
-target.ch.lambdaj.proxy.ProxyUtil-45:pc 
-target.ch.lambdaj.proxy.ProxyUtil-46:pc 
-target.ch.lambdaj.proxy.ProxyUtil-48:pc 
+target.ch.lambdaj.proxy.ProxyUtil-33:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-46:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-48:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-49:fc 
 target.ch.lambdaj.proxy.ProxyUtil-50:fc 
-target.ch.lambdaj.proxy.ProxyUtil-51:pc 
-target.ch.lambdaj.proxy.ProxyUtil-52:pc 
-target.ch.lambdaj.proxy.ProxyUtil-55:pc 
-target.ch.lambdaj.proxy.ProxyUtil-60:pc 
+target.ch.lambdaj.proxy.ProxyUtil-51:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-52:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-55:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-60:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-61:fc 
-target.ch.lambdaj.proxy.ProxyUtil-75:pc 
+target.ch.lambdaj.proxy.ProxyUtil-75:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-76:fc 
-target.ch.lambdaj.proxy.ProxyUtil-80:pc 
+target.ch.lambdaj.proxy.ProxyUtil-80:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-81:fc 
 target.ch.lambdaj.proxy.ProxyUtil-89:fc 
 target.ch.lambdaj.proxy.ProxyUtil-90:fc 
 target.ch.lambdaj.proxy.ProxyUtil-91:fc 
-target.ch.lambdaj.proxy.ProxyUtil-92:pc 
+target.ch.lambdaj.proxy.ProxyUtil-92:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-93:fc 
 target.ch.lambdaj.proxy.UnproxableClassException-16:fc 
 target.ch.lambdaj.proxy.UnproxableClassException-17:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-68:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-69:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-70:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-68:fc bfc 
+target.ch.lambdaj.util.iterator.IteratorFactory-69:fc bfc 
+target.ch.lambdaj.util.iterator.IteratorFactory-70:pc bpc 
 target.ch.lambdaj.util.iterator.ResettableIterator-13:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-23:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-24:fc 

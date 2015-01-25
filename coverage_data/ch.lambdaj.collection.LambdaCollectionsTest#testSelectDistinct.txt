@@ -10,7 +10,7 @@ target.ch.lambdaj.collection.LambdaCollections-43:fc
 target.ch.lambdaj.collection.LambdaIterable-27:fc 
 target.ch.lambdaj.collection.LambdaIterable-28:fc 
 target.ch.lambdaj.collection.LambdaIterable-195:fc 
-target.ch.lambdaj.collection.LambdaIterable-196:fc 
+target.ch.lambdaj.collection.LambdaIterable-196:fc bfc 
 target.ch.lambdaj.collection.LambdaIterable-197:fc 
 target.ch.lambdaj.collection.LambdaList-22:fc 
 target.ch.lambdaj.collection.LambdaList-23:fc 

@@ -25,9 +25,9 @@ target.ch.lambdaj.group.GroupCondition-35:fc
 target.ch.lambdaj.group.GroupCondition-39:fc 
 target.ch.lambdaj.group.GroupCondition-45:fc 
 target.ch.lambdaj.group.GroupCondition-46:fc 
-target.ch.lambdaj.group.GroupCondition-47:pc 
+target.ch.lambdaj.group.GroupCondition-47:pc bpc 
 target.ch.lambdaj.group.GroupCondition-50:fc 
-target.ch.lambdaj.group.GroupCondition-69:pc 
+target.ch.lambdaj.group.GroupCondition-69:pc bpc 
 target.ch.lambdaj.group.GroupCondition-70:fc 
 target.ch.lambdaj.group.GroupConditions-14:fc 
 target.ch.lambdaj.group.GroupConditions-23:fc 
@@ -39,9 +39,9 @@ target.ch.lambdaj.group.GroupImpl-25:fc
 target.ch.lambdaj.group.GroupImpl-28:fc 
 target.ch.lambdaj.group.GroupImpl-29:fc 
 target.ch.lambdaj.group.GroupImpl-30:fc 
-target.ch.lambdaj.group.GroupImpl-33:pc 
+target.ch.lambdaj.group.GroupImpl-33:pc bpc 
 target.ch.lambdaj.group.GroupImpl-34:fc 
-target.ch.lambdaj.group.GroupImpl-35:pc 
+target.ch.lambdaj.group.GroupImpl-35:pc bpc 
 target.ch.lambdaj.group.GroupImpl-39:fc 
 target.ch.lambdaj.group.GroupImpl-40:fc 
 target.ch.lambdaj.group.GroupImpl-41:fc 
@@ -50,22 +50,22 @@ target.ch.lambdaj.group.GroupItem-17:pc
 target.ch.lambdaj.group.GroupItem-19:pc 
 target.ch.lambdaj.group.GroupItem-27:fc 
 target.ch.lambdaj.group.GroupItem-28:fc 
-target.ch.lambdaj.group.GroupItem-29:pc 
+target.ch.lambdaj.group.GroupItem-29:pc bpc 
 target.ch.lambdaj.group.GroupItem-30:fc 
 target.ch.lambdaj.group.GroupItem-37:fc 
 target.ch.lambdaj.group.GroupItem-42:fc 
-target.ch.lambdaj.group.GroupItem-43:pc 
+target.ch.lambdaj.group.GroupItem-43:pc bpc 
 target.ch.lambdaj.group.GroupItem-44:fc 
 target.ch.lambdaj.group.GroupItem-45:fc 
 target.ch.lambdaj.group.GroupItem-47:fc 
-target.ch.lambdaj.group.GroupItem-74:pc 
+target.ch.lambdaj.group.GroupItem-74:pc bpc 
 target.ch.lambdaj.group.GroupItem-75:fc 
 target.ch.lambdaj.group.GroupItem-76:fc 
 target.ch.lambdaj.group.Groups-33:fc 
 target.ch.lambdaj.group.Groups-56:fc 
 target.ch.lambdaj.group.Groups-57:fc 
-target.ch.lambdaj.group.Groups-58:fc 
-target.ch.lambdaj.group.Groups-60:pc 
+target.ch.lambdaj.group.Groups-58:fc bfc 
+target.ch.lambdaj.group.Groups-60:pc bpc 
 target.ch.lambdaj.group.Groups-66:fc 
 target.ch.lambdaj.group.Groups-67:fc 
 target.ch.lambdaj.group.StringGroupCondition-23:fc 
@@ -76,8 +76,8 @@ target.ch.lambdaj.group.StringGroupCondition-33:fc
 target.ch.lambdaj.group.StringGroupCondition-34:fc 
 target.ch.lambdaj.group.StringGroupCondition-37:fc 
 target.ch.lambdaj.group.StringGroupCondition-41:fc 
-target.ch.lambdaj.util.IntrospectionUtil-37:pc 
+target.ch.lambdaj.util.IntrospectionUtil-37:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-38:fc 
-target.ch.lambdaj.util.IntrospectionUtil-39:pc 
+target.ch.lambdaj.util.IntrospectionUtil-39:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-41:fc 
 target.ch.lambdaj.util.IntrospectionUtil-43:fc 

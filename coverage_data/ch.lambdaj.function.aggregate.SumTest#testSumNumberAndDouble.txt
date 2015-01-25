@@ -5,9 +5,9 @@ target.ch.lambdaj.function.aggregate.InitializedPairAggregator-27:fc
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
-target.ch.lambdaj.function.aggregate.Sum-37:pc 
-target.ch.lambdaj.function.aggregate.Sum-39:pc 
-target.ch.lambdaj.function.aggregate.Sum-40:pc 
-target.ch.lambdaj.function.aggregate.Sum-41:pc 
-target.ch.lambdaj.function.aggregate.Sum-42:pc 
-target.ch.lambdaj.function.aggregate.Sum-62:fc 
+target.ch.lambdaj.function.aggregate.Sum-37:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-39:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-40:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-41:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-42:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-62:fc bfc 

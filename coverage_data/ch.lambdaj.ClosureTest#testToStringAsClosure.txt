@@ -22,45 +22,45 @@ target.ch.lambdaj.function.closure.AbstractClosure-26:fc
 target.ch.lambdaj.function.closure.AbstractClosure-27:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-32:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-34:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-77:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-78:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-77:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-78:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-81:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-82:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-82:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-83:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-116:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-117:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-117:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-118:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-121:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-130:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-131:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-131:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-132:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-133:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-148:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-148:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-153:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-154:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-156:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-157:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-158:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-154:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-156:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-157:fc bfc 
+target.ch.lambdaj.function.closure.AbstractClosure-158:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-159:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-160:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-209:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-210:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-209:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-210:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-211:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-212:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-213:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-214:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-213:fc bfc 
+target.ch.lambdaj.function.closure.AbstractClosure-214:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-218:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-219:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-219:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-239:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-240:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-241:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-245:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-246:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-245:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-246:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-247:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-250:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-252:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-250:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-252:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-253:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-257:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-257:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-259:fc 
 target.ch.lambdaj.function.closure.Closure-13:fc 
 target.ch.lambdaj.function.closure.Closure-23:fc 
@@ -78,6 +78,6 @@ target.ch.lambdaj.function.closure.WrongClosureInvocationException-16:fc
 target.ch.lambdaj.function.closure.WrongClosureInvocationException-17:fc 
 target.ch.lambdaj.util.IntrospectionUtil-106:fc 
 target.ch.lambdaj.util.IntrospectionUtil-117:fc 
-target.ch.lambdaj.util.IntrospectionUtil-150:pc 
-target.ch.lambdaj.util.IntrospectionUtil-151:pc 
+target.ch.lambdaj.util.IntrospectionUtil-150:pc bpc 
+target.ch.lambdaj.util.IntrospectionUtil-151:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-152:fc 

@@ -16,14 +16,14 @@ target.ch.lambdaj.function.aggregate.Max-11:fc
 target.ch.lambdaj.function.aggregate.Min-11:fc 
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.PairAggregator-23:fc 
-target.ch.lambdaj.function.aggregate.PairAggregator-24:pc 
+target.ch.lambdaj.function.aggregate.PairAggregator-24:pc bpc 
 target.ch.lambdaj.function.aggregate.PairAggregator-25:fc 
 target.ch.lambdaj.function.aggregate.ProxyAggregator-23:fc 
 target.ch.lambdaj.function.aggregate.ProxyAggregator-24:fc 
 target.ch.lambdaj.function.aggregate.ProxyAggregator-25:fc 
-target.ch.lambdaj.function.aggregate.ProxyAggregator-29:pc 
-target.ch.lambdaj.function.aggregate.ProxyAggregator-34:pc 
-target.ch.lambdaj.function.aggregate.ProxyAggregator-35:pc 
+target.ch.lambdaj.function.aggregate.ProxyAggregator-29:pc bpc 
+target.ch.lambdaj.function.aggregate.ProxyAggregator-34:pc bpc 
+target.ch.lambdaj.function.aggregate.ProxyAggregator-35:pc bpc 
 target.ch.lambdaj.function.aggregate.ProxyAggregator-49:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
@@ -32,28 +32,28 @@ target.ch.lambdaj.proxy.ProxyIterator-25:fc
 target.ch.lambdaj.proxy.ProxyIterator-31:fc 
 target.ch.lambdaj.proxy.ProxyIterator-32:fc 
 target.ch.lambdaj.proxy.ProxyIterator-33:fc 
-target.ch.lambdaj.proxy.ProxyIterator-51:pc 
+target.ch.lambdaj.proxy.ProxyIterator-51:pc bpc 
 target.ch.lambdaj.proxy.ProxyIterator-52:fc 
 target.ch.lambdaj.proxy.ProxyIterator-53:fc 
 target.ch.lambdaj.proxy.ProxyIterator-54:fc 
-target.ch.lambdaj.proxy.ProxyIterator-55:fc 
+target.ch.lambdaj.proxy.ProxyIterator-55:fc bfc 
 target.ch.lambdaj.proxy.ProxyIterator-57:fc 
 target.ch.lambdaj.proxy.ProxyIterator-69:fc 
 target.ch.lambdaj.proxy.ProxyIterator-71:fc 
-target.ch.lambdaj.proxy.ProxyUtil-45:pc 
-target.ch.lambdaj.proxy.ProxyUtil-75:pc 
+target.ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-75:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-76:fc 
-target.ch.lambdaj.proxy.ProxyUtil-80:pc 
+target.ch.lambdaj.proxy.ProxyUtil-80:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-81:fc 
 target.ch.lambdaj.proxy.ProxyUtil-97:fc 
-target.ch.lambdaj.proxy.ProxyUtil-101:pc 
-target.ch.lambdaj.proxy.ProxyUtil-102:pc 
+target.ch.lambdaj.proxy.ProxyUtil-101:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-102:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-103:fc 
 target.ch.lambdaj.proxy.ProxyUtil-104:fc 
 target.ch.lambdaj.proxy.ProxyUtil-105:fc 
 target.ch.lambdaj.proxy.ProxyUtil-106:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-68:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-69:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-68:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-69:pc bpc 
 target.ch.lambdaj.util.iterator.ResettableIterator-13:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-23:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-24:fc 

@@ -1,5 +1,5 @@
 target.ch.lambdaj.Lambda-90:fc 
-target.ch.lambdaj.Lambda-91:pc 
+target.ch.lambdaj.Lambda-91:pc bpc 
 target.ch.lambdaj.Lambda-93:fc 
 target.ch.lambdaj.Lambda-510:fc 
 target.ch.lambdaj.Lambda-511:fc 
@@ -24,38 +24,38 @@ target.ch.lambdaj.proxy.ProxyIterator-25:fc
 target.ch.lambdaj.proxy.ProxyIterator-31:fc 
 target.ch.lambdaj.proxy.ProxyIterator-32:fc 
 target.ch.lambdaj.proxy.ProxyIterator-33:fc 
-target.ch.lambdaj.proxy.ProxyIterator-51:pc 
+target.ch.lambdaj.proxy.ProxyIterator-51:pc bpc 
 target.ch.lambdaj.proxy.ProxyIterator-52:fc 
 target.ch.lambdaj.proxy.ProxyIterator-53:fc 
 target.ch.lambdaj.proxy.ProxyIterator-54:fc 
-target.ch.lambdaj.proxy.ProxyIterator-55:pc 
+target.ch.lambdaj.proxy.ProxyIterator-55:pc bpc 
 target.ch.lambdaj.proxy.ProxyIterator-57:fc 
 target.ch.lambdaj.proxy.ProxyIterator-58:fc 
 target.ch.lambdaj.proxy.ProxyIterator-59:fc 
-target.ch.lambdaj.proxy.ProxyIterator-60:pc 
-target.ch.lambdaj.proxy.ProxyIterator-61:pc 
+target.ch.lambdaj.proxy.ProxyIterator-60:pc bpc 
+target.ch.lambdaj.proxy.ProxyIterator-61:pc bpc 
 target.ch.lambdaj.proxy.ProxyIterator-62:fc 
 target.ch.lambdaj.proxy.ProxyIterator-69:fc 
 target.ch.lambdaj.proxy.ProxyIterator-81:fc 
 target.ch.lambdaj.proxy.ProxyIterator-91:fc 
 target.ch.lambdaj.proxy.ProxyIterator-92:fc 
 target.ch.lambdaj.proxy.ProxyIterator-93:fc 
-target.ch.lambdaj.proxy.ProxyUtil-45:pc 
-target.ch.lambdaj.proxy.ProxyUtil-46:pc 
-target.ch.lambdaj.proxy.ProxyUtil-48:pc 
+target.ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-46:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-48:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-49:fc 
-target.ch.lambdaj.proxy.ProxyUtil-55:pc 
-target.ch.lambdaj.proxy.ProxyUtil-75:pc 
+target.ch.lambdaj.proxy.ProxyUtil-55:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-75:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-76:fc 
-target.ch.lambdaj.proxy.ProxyUtil-80:pc 
+target.ch.lambdaj.proxy.ProxyUtil-80:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-81:fc 
 target.ch.lambdaj.proxy.ProxyUtil-89:fc 
 target.ch.lambdaj.proxy.ProxyUtil-90:fc 
 target.ch.lambdaj.proxy.ProxyUtil-91:fc 
-target.ch.lambdaj.proxy.ProxyUtil-92:pc 
+target.ch.lambdaj.proxy.ProxyUtil-92:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-93:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-68:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-69:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-68:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-69:pc bpc 
 target.ch.lambdaj.util.iterator.ResettableIterator-13:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-23:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterable-24:fc 

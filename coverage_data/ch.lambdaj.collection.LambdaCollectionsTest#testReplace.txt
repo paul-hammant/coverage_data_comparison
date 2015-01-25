@@ -6,7 +6,7 @@ target.ch.lambdaj.collection.AbstractLambdaCollection-29:fc
 target.ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-35:pc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-35:pc bpc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-36:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-39:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-40:fc 
@@ -29,7 +29,7 @@ target.ch.lambdaj.collection.LambdaIterable-34:fc
 target.ch.lambdaj.collection.LambdaIterable-180:fc 
 target.ch.lambdaj.collection.LambdaIterable-181:fc 
 target.ch.lambdaj.collection.LambdaIterable-185:fc 
-target.ch.lambdaj.collection.LambdaIterable-186:fc 
+target.ch.lambdaj.collection.LambdaIterable-186:fc bfc 
 target.ch.lambdaj.collection.LambdaIterable-187:fc 
 target.ch.lambdaj.collection.LambdaIterable-188:fc 
 target.ch.lambdaj.collection.LambdaIterator-23:fc 

@@ -6,8 +6,8 @@ target.ch.lambdaj.collection.AbstractLambdaCollection-29:fc
 target.ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-239:pc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-239:pc bpc 
 target.ch.lambdaj.collection.LambdaCollection-23:fc 
 target.ch.lambdaj.collection.LambdaCollection-24:fc 
 target.ch.lambdaj.collection.LambdaCollection-27:fc 
@@ -39,5 +39,5 @@ target.ch.lambdaj.collection.LambdaList-22:fc
 target.ch.lambdaj.collection.LambdaList-23:fc 
 target.ch.lambdaj.collection.LambdaList-179:fc 
 target.ch.lambdaj.collection.LambdaList-188:fc 
-target.ch.lambdaj.util.IntrospectionUtil-162:pc 
+target.ch.lambdaj.util.IntrospectionUtil-162:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-164:fc 

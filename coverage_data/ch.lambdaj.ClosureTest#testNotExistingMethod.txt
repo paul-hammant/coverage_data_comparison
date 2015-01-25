@@ -22,7 +22,7 @@ target.ch.lambdaj.function.closure.AbstractClosure-26:fc
 target.ch.lambdaj.function.closure.AbstractClosure-27:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-32:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-34:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-77:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-77:pc bpc 
 target.ch.lambdaj.function.closure.Closure-13:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-21:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-48:fc 
@@ -32,10 +32,10 @@ target.ch.lambdaj.util.IntrospectionException-18:fc
 target.ch.lambdaj.util.IntrospectionException-19:fc 
 target.ch.lambdaj.util.IntrospectionUtil-118:fc 
 target.ch.lambdaj.util.IntrospectionUtil-119:fc 
-target.ch.lambdaj.util.IntrospectionUtil-120:pc 
-target.ch.lambdaj.util.IntrospectionUtil-126:fc 
-target.ch.lambdaj.util.IntrospectionUtil-127:pc 
+target.ch.lambdaj.util.IntrospectionUtil-120:pc bpc 
+target.ch.lambdaj.util.IntrospectionUtil-126:fc bfc 
+target.ch.lambdaj.util.IntrospectionUtil-127:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-129:fc 
-target.ch.lambdaj.util.IntrospectionUtil-150:pc 
-target.ch.lambdaj.util.IntrospectionUtil-151:pc 
+target.ch.lambdaj.util.IntrospectionUtil-150:pc bpc 
+target.ch.lambdaj.util.IntrospectionUtil-151:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-152:fc 

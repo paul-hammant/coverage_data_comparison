@@ -16,5 +16,5 @@ target.ch.lambdaj.function.aggregate.Min-11:fc
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-32:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-32:pc bpc 
 target.ch.lambdaj.util.iterator.IteratorFactory-33:fc 

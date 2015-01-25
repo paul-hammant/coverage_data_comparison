@@ -8,7 +8,7 @@ target.ch.lambdaj.collection.LambdaCollections-34:fc
 target.ch.lambdaj.collection.LambdaIterable-27:fc 
 target.ch.lambdaj.collection.LambdaIterable-28:fc 
 target.ch.lambdaj.collection.LambdaIterable-251:fc 
-target.ch.lambdaj.collection.LambdaIterable-252:fc 
+target.ch.lambdaj.collection.LambdaIterable-252:fc bfc 
 target.ch.lambdaj.collection.LambdaIterable-253:fc 
 target.ch.lambdaj.collection.LambdaList-22:fc 
 target.ch.lambdaj.collection.LambdaList-23:fc 
@@ -16,6 +16,6 @@ target.ch.lambdaj.collection.LambdaList-26:fc
 target.ch.lambdaj.collection.LambdaList-143:fc 
 target.ch.lambdaj.collection.LambdaList-179:fc 
 target.ch.lambdaj.collection.LambdaList-188:fc 
-target.ch.lambdaj.util.IntrospectionUtil-162:pc 
+target.ch.lambdaj.util.IntrospectionUtil-162:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-165:fc 
 target.ch.lambdaj.util.IntrospectionUtil-166:fc 

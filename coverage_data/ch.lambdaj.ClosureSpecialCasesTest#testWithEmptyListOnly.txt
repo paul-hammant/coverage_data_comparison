@@ -26,50 +26,50 @@ target.ch.lambdaj.function.argument.ArgumentsFactory-39:fc
 target.ch.lambdaj.function.argument.ArgumentsFactory-42:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-44:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-48:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-49:fc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-49:fc bfc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-50:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-51:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-51:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-54:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-58:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-59:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-60:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-60:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-63:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-64:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-68:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-68:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-77:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-80:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-80:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-81:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-82:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-97:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-98:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-97:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-98:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-101:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-108:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-112:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-162:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-163:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-108:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-112:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-162:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-163:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-167:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-170:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-179:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-200:fc 
-target.ch.lambdaj.function.argument.Invocation-120:pc 
+target.ch.lambdaj.function.argument.Invocation-120:pc bpc 
 target.ch.lambdaj.function.argument.InvocationSequence-20:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-52:pc 
 target.ch.lambdaj.function.argument.InvocationSequence-54:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-55:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-56:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-57:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-101:pc 
-target.ch.lambdaj.function.argument.InvocationSequence-110:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-101:pc bpc 
+target.ch.lambdaj.function.argument.InvocationSequence-110:fc bfc 
 target.ch.lambdaj.function.argument.InvocationSequence-111:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-112:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-113:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-113:pc bpc 
 target.ch.lambdaj.function.argument.InvocationSequence-117:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-23:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-24:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-25:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-26:fc 
-target.ch.lambdaj.function.argument.ProxyArgument-32:fc 
-target.ch.lambdaj.function.argument.ProxyArgument-33:pc 
+target.ch.lambdaj.function.argument.ProxyArgument-32:fc bfc 
+target.ch.lambdaj.function.argument.ProxyArgument-33:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-17:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-26:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-27:fc 
@@ -78,45 +78,45 @@ target.ch.lambdaj.function.closure.AbstractClosure-34:fc
 target.ch.lambdaj.function.closure.AbstractClosure-61:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-62:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-116:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-117:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-117:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-118:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-121:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-125:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-125:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-126:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-127:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-130:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-131:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-131:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-132:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-133:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-136:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-136:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-137:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-138:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-148:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-148:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-153:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-154:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-156:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-157:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-158:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-154:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-156:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-157:fc bfc 
+target.ch.lambdaj.function.closure.AbstractClosure-158:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-159:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-160:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-209:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-210:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-209:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-210:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-211:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-212:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-213:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-214:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-213:fc bfc 
+target.ch.lambdaj.function.closure.AbstractClosure-214:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-218:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-219:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-220:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-219:fc bfc 
+target.ch.lambdaj.function.closure.AbstractClosure-220:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-234:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-239:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-240:fc 
 target.ch.lambdaj.function.closure.AbstractClosure-241:fc 
-target.ch.lambdaj.function.closure.AbstractClosure-245:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-246:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-248:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-250:pc 
-target.ch.lambdaj.function.closure.AbstractClosure-252:pc 
+target.ch.lambdaj.function.closure.AbstractClosure-245:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-246:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-248:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-250:pc bpc 
+target.ch.lambdaj.function.closure.AbstractClosure-252:pc bpc 
 target.ch.lambdaj.function.closure.AbstractClosure-253:fc 
 target.ch.lambdaj.function.closure.Closure-13:fc 
 target.ch.lambdaj.function.closure.Closure-23:fc 
@@ -126,18 +126,18 @@ target.ch.lambdaj.function.closure.ClosuresFactory-40:fc
 target.ch.lambdaj.function.closure.ClosuresFactory-48:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-49:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-50:fc 
-target.ch.lambdaj.function.closure.ClosuresFactory-118:pc 
-target.ch.lambdaj.function.closure.ClosuresFactory-119:pc 
-target.ch.lambdaj.function.closure.ClosuresFactory-120:pc 
+target.ch.lambdaj.function.closure.ClosuresFactory-118:pc bpc 
+target.ch.lambdaj.function.closure.ClosuresFactory-119:pc bpc 
+target.ch.lambdaj.function.closure.ClosuresFactory-120:pc bpc 
 target.ch.lambdaj.function.closure.ClosuresFactory-121:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-125:fc 
 target.ch.lambdaj.function.closure.ClosuresFactory-128:pc 
 target.ch.lambdaj.function.closure.ClosuresFactory-129:fc 
-target.ch.lambdaj.function.closure.ClosuresFactory-132:pc 
+target.ch.lambdaj.function.closure.ClosuresFactory-132:pc bpc 
 target.ch.lambdaj.function.closure.DelayedClosure-39:fc 
 target.ch.lambdaj.function.closure.DelayedClosure-66:fc 
 target.ch.lambdaj.function.closure.DelayedClosure-67:fc 
-target.ch.lambdaj.function.closure.DelayedClosure-68:pc 
+target.ch.lambdaj.function.closure.DelayedClosure-68:pc bpc 
 target.ch.lambdaj.function.closure.DelayedClosure-69:fc 
 target.ch.lambdaj.function.closure.InvokableMethod-21:fc 
 target.ch.lambdaj.function.closure.InvokableMethod-22:fc 
@@ -147,24 +147,24 @@ target.ch.lambdaj.function.closure.ProxyClosure-18:fc
 target.ch.lambdaj.function.closure.ProxyClosure-22:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-23:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-24:fc 
-target.ch.lambdaj.function.closure.ProxyClosure-27:pc 
+target.ch.lambdaj.function.closure.ProxyClosure-27:pc bpc 
 target.ch.lambdaj.function.closure.ProxyClosure-28:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-29:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-31:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-33:fc 
-target.ch.lambdaj.function.closure.ProxyClosure-34:pc 
+target.ch.lambdaj.function.closure.ProxyClosure-34:pc bpc 
 target.ch.lambdaj.function.closure.ProxyClosure-35:fc 
 target.ch.lambdaj.function.closure.ProxyClosure-36:fc 
 target.ch.lambdaj.proxy.InvocationInterceptor-15:fc 
 target.ch.lambdaj.proxy.InvocationInterceptor-21:fc 
-target.ch.lambdaj.proxy.ProxyUtil-33:pc 
-target.ch.lambdaj.proxy.ProxyUtil-45:pc 
-target.ch.lambdaj.proxy.ProxyUtil-46:pc 
-target.ch.lambdaj.proxy.ProxyUtil-48:pc 
+target.ch.lambdaj.proxy.ProxyUtil-33:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-46:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-48:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-49:fc 
-target.ch.lambdaj.proxy.ProxyUtil-55:pc 
+target.ch.lambdaj.proxy.ProxyUtil-55:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-89:fc 
 target.ch.lambdaj.proxy.ProxyUtil-90:fc 
 target.ch.lambdaj.proxy.ProxyUtil-91:fc 
-target.ch.lambdaj.proxy.ProxyUtil-92:pc 
+target.ch.lambdaj.proxy.ProxyUtil-92:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-93:fc 

@@ -1,6 +1,6 @@
-target.ch.lambdaj.util.iterator.IteratorFactory-68:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-69:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-70:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-68:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-69:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-70:pc bpc 
 target.ch.lambdaj.util.iterator.ResettableIterator-13:fc 
 target.ch.lambdaj.util.iterator.ResettableIterator-24:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-17:fc 
@@ -13,8 +13,8 @@ target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-35:fc
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-36:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-37:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-38:fc 
-target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-51:fc 
-target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-52:fc 
+target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-51:fc bfc 
+target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-52:fc bfc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-53:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-54:fc 
 target.ch.lambdaj.util.iterator.ResettableIteratorOnIterator-55:fc 

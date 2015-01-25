@@ -1,11 +1,11 @@
 target.ch.lambdaj.Lambda-328:fc 
-target.ch.lambdaj.Lambda-329:pc 
-target.ch.lambdaj.Lambda-330:fc 
+target.ch.lambdaj.Lambda-329:pc bpc 
+target.ch.lambdaj.Lambda-330:fc bfc 
 target.ch.lambdaj.Lambda-331:fc 
-target.ch.lambdaj.Lambda-332:fc 
+target.ch.lambdaj.Lambda-332:fc bfc 
 target.ch.lambdaj.Lambda-333:fc 
 target.ch.lambdaj.Lambda-334:fc 
-target.ch.lambdaj.Lambda-344:pc 
+target.ch.lambdaj.Lambda-344:pc bpc 
 target.ch.lambdaj.Lambda-345:fc 
 target.ch.lambdaj.Lambda-510:fc 
 target.ch.lambdaj.Lambda-511:fc 
@@ -32,9 +32,9 @@ target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-28:fc
 target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-35:fc 
 target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-61:fc 
 target.ch.lambdaj.function.matcher.LambdaJMatcher-15:fc 
-target.ch.lambdaj.util.IntrospectionUtil-37:pc 
+target.ch.lambdaj.util.IntrospectionUtil-37:pc bpc 
 target.ch.lambdaj.util.IntrospectionUtil-38:fc 
-target.ch.lambdaj.util.IntrospectionUtil-39:fc 
+target.ch.lambdaj.util.IntrospectionUtil-39:fc bfc 
 target.ch.lambdaj.util.IntrospectionUtil-41:fc 
 target.ch.lambdaj.util.IntrospectionUtil-43:fc 
 target.ch.lambdaj.util.IntrospectionUtil-44:fc 

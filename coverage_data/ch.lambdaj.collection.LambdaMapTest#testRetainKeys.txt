@@ -5,7 +5,7 @@ target.ch.lambdaj.Lambda-512:fc
 target.ch.lambdaj.Lambda-513:fc 
 target.ch.lambdaj.Lambda-1115:fc 
 target.ch.lambdaj.Lambda-1116:fc 
-target.ch.lambdaj.Lambda-1117:fc 
+target.ch.lambdaj.Lambda-1117:fc bfc 
 target.ch.lambdaj.Lambda-1118:fc 
 target.ch.lambdaj.Lambda-1119:fc 
 target.ch.lambdaj.Lambda-1120:fc 
@@ -15,7 +15,7 @@ target.ch.lambdaj.collection.AbstractLambdaCollection-29:fc
 target.ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-192:fc 
 target.ch.lambdaj.collection.LambdaCollection-23:fc 
 target.ch.lambdaj.collection.LambdaCollection-24:fc 
@@ -29,8 +29,8 @@ target.ch.lambdaj.collection.LambdaMap-27:fc
 target.ch.lambdaj.collection.LambdaMap-28:fc 
 target.ch.lambdaj.collection.LambdaMap-56:fc 
 target.ch.lambdaj.collection.LambdaMap-87:fc 
-target.ch.lambdaj.collection.LambdaMap-88:fc 
-target.ch.lambdaj.collection.LambdaMap-89:pc 
+target.ch.lambdaj.collection.LambdaMap-88:fc bfc 
+target.ch.lambdaj.collection.LambdaMap-89:pc bpc 
 target.ch.lambdaj.collection.LambdaMap-90:fc 
 target.ch.lambdaj.collection.LambdaMap-92:fc 
 target.ch.lambdaj.collection.LambdaMap-93:fc 
@@ -61,45 +61,45 @@ target.ch.lambdaj.function.argument.ArgumentsFactory-39:fc
 target.ch.lambdaj.function.argument.ArgumentsFactory-42:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-44:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-48:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-49:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-49:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-50:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-54:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-58:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-59:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-60:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-60:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-63:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-64:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-68:fc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-68:fc bfc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-77:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-80:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-80:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-81:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-82:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-91:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-92:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-92:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-93:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-97:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-98:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-97:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-98:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-101:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-108:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-112:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-108:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-112:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-170:fc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-179:fc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-182:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-186:pc 
-target.ch.lambdaj.function.argument.ArgumentsFactory-189:pc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-182:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-186:pc bpc 
+target.ch.lambdaj.function.argument.ArgumentsFactory-189:pc bpc 
 target.ch.lambdaj.function.argument.ArgumentsFactory-200:fc 
 target.ch.lambdaj.function.argument.Invocation-28:fc 
 target.ch.lambdaj.function.argument.Invocation-29:fc 
 target.ch.lambdaj.function.argument.Invocation-30:fc 
 target.ch.lambdaj.function.argument.Invocation-31:fc 
-target.ch.lambdaj.function.argument.Invocation-32:pc 
+target.ch.lambdaj.function.argument.Invocation-32:pc bpc 
 target.ch.lambdaj.function.argument.Invocation-38:fc 
-target.ch.lambdaj.function.argument.Invocation-45:pc 
-target.ch.lambdaj.function.argument.Invocation-72:pc 
-target.ch.lambdaj.function.argument.Invocation-100:pc 
+target.ch.lambdaj.function.argument.Invocation-45:pc bpc 
+target.ch.lambdaj.function.argument.Invocation-72:pc bpc 
+target.ch.lambdaj.function.argument.Invocation-100:pc bpc 
 target.ch.lambdaj.function.argument.Invocation-101:fc 
-target.ch.lambdaj.function.argument.Invocation-102:pc 
-target.ch.lambdaj.function.argument.Invocation-103:pc 
+target.ch.lambdaj.function.argument.Invocation-102:pc bpc 
+target.ch.lambdaj.function.argument.Invocation-103:pc bpc 
 target.ch.lambdaj.function.argument.Invocation-104:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-20:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-52:fc 
@@ -111,30 +111,30 @@ target.ch.lambdaj.function.argument.InvocationSequence-59:fc
 target.ch.lambdaj.function.argument.InvocationSequence-60:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-61:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-62:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-63:pc 
-target.ch.lambdaj.function.argument.InvocationSequence-64:pc 
-target.ch.lambdaj.function.argument.InvocationSequence-65:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-63:pc bpc 
+target.ch.lambdaj.function.argument.InvocationSequence-64:pc bpc 
+target.ch.lambdaj.function.argument.InvocationSequence-65:pc bpc 
 target.ch.lambdaj.function.argument.InvocationSequence-66:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-69:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-110:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-110:fc bfc 
 target.ch.lambdaj.function.argument.InvocationSequence-111:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-112:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-113:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-113:fc bfc 
 target.ch.lambdaj.function.argument.InvocationSequence-114:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-115:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-117:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-121:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-121:pc bpc 
 target.ch.lambdaj.function.argument.InvocationSequence-131:fc 
 target.ch.lambdaj.function.argument.InvocationSequence-135:fc 
-target.ch.lambdaj.function.argument.InvocationSequence-139:pc 
-target.ch.lambdaj.function.argument.InvocationSequence-140:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-139:pc bpc 
+target.ch.lambdaj.function.argument.InvocationSequence-140:pc bpc 
 target.ch.lambdaj.function.argument.InvocationSequence-141:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-23:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-24:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-25:fc 
 target.ch.lambdaj.function.argument.ProxyArgument-26:fc 
-target.ch.lambdaj.function.argument.ProxyArgument-32:fc 
-target.ch.lambdaj.function.argument.ProxyArgument-33:pc 
+target.ch.lambdaj.function.argument.ProxyArgument-32:fc bfc 
+target.ch.lambdaj.function.argument.ProxyArgument-33:pc bpc 
 target.ch.lambdaj.function.argument.ProxyArgument-36:fc 
 target.ch.lambdaj.function.convert.ArgumentConverter-21:fc 
 target.ch.lambdaj.function.convert.ArgumentConverter-22:fc 
@@ -144,15 +144,15 @@ target.ch.lambdaj.function.convert.ArgumentConverter-30:fc
 target.ch.lambdaj.function.convert.ArgumentConverter-36:fc 
 target.ch.lambdaj.proxy.InvocationInterceptor-15:fc 
 target.ch.lambdaj.proxy.InvocationInterceptor-21:fc 
-target.ch.lambdaj.proxy.ProxyUtil-45:pc 
-target.ch.lambdaj.proxy.ProxyUtil-46:pc 
-target.ch.lambdaj.proxy.ProxyUtil-48:pc 
+target.ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-46:pc bpc 
+target.ch.lambdaj.proxy.ProxyUtil-48:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-49:fc 
-target.ch.lambdaj.proxy.ProxyUtil-55:pc 
+target.ch.lambdaj.proxy.ProxyUtil-55:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-89:fc 
 target.ch.lambdaj.proxy.ProxyUtil-90:fc 
 target.ch.lambdaj.proxy.ProxyUtil-91:fc 
-target.ch.lambdaj.proxy.ProxyUtil-92:pc 
+target.ch.lambdaj.proxy.ProxyUtil-92:pc bpc 
 target.ch.lambdaj.proxy.ProxyUtil-93:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-49:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-50:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

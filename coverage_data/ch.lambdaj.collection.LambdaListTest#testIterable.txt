@@ -1,11 +1,11 @@
 target.ch.lambdaj.Lambda-328:fc 
-target.ch.lambdaj.Lambda-329:pc 
-target.ch.lambdaj.Lambda-330:fc 
+target.ch.lambdaj.Lambda-329:pc bpc 
+target.ch.lambdaj.Lambda-330:fc bfc 
 target.ch.lambdaj.Lambda-331:fc 
-target.ch.lambdaj.Lambda-332:fc 
+target.ch.lambdaj.Lambda-332:fc bfc 
 target.ch.lambdaj.Lambda-333:fc 
 target.ch.lambdaj.Lambda-334:fc 
-target.ch.lambdaj.Lambda-344:pc 
+target.ch.lambdaj.Lambda-344:pc bpc 
 target.ch.lambdaj.Lambda-345:fc 
 target.ch.lambdaj.Lambda-510:fc 
 target.ch.lambdaj.Lambda-511:fc 
@@ -19,7 +19,7 @@ target.ch.lambdaj.collection.AbstractLambdaCollection-29:fc
 target.ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-35:pc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-35:pc bpc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-36:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-39:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-40:fc 
@@ -27,8 +27,8 @@ target.ch.lambdaj.collection.AbstractLambdaCollection-44:fc
 target.ch.lambdaj.collection.AbstractLambdaCollection-45:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-48:fc 
 target.ch.lambdaj.collection.AbstractLambdaCollection-49:fc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc 
-target.ch.lambdaj.collection.AbstractLambdaCollection-239:pc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
+target.ch.lambdaj.collection.AbstractLambdaCollection-239:pc bpc 
 target.ch.lambdaj.collection.LambdaCollections-61:fc 
 target.ch.lambdaj.collection.LambdaIterable-27:fc 
 target.ch.lambdaj.collection.LambdaIterable-28:fc 
@@ -39,7 +39,7 @@ target.ch.lambdaj.collection.LambdaIterable-101:fc
 target.ch.lambdaj.collection.LambdaIterable-102:fc 
 target.ch.lambdaj.collection.LambdaIterable-245:fc 
 target.ch.lambdaj.collection.LambdaIterable-251:fc 
-target.ch.lambdaj.collection.LambdaIterable-252:fc 
+target.ch.lambdaj.collection.LambdaIterable-252:fc bfc 
 target.ch.lambdaj.collection.LambdaIterable-253:fc 
 target.ch.lambdaj.collection.LambdaIterator-23:fc 
 target.ch.lambdaj.collection.LambdaIterator-24:fc 
@@ -58,4 +58,4 @@ target.ch.lambdaj.function.aggregate.Min-11:fc
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
-target.ch.lambdaj.util.IntrospectionUtil-162:pc 
+target.ch.lambdaj.util.IntrospectionUtil-162:pc bpc 

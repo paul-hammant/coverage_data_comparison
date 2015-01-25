@@ -4,4 +4,4 @@ target.ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
-target.ch.lambdaj.function.aggregate.Sum-37:pc 
+target.ch.lambdaj.function.aggregate.Sum-37:pc bpc 

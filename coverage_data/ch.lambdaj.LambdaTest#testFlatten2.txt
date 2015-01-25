@@ -17,11 +17,11 @@ target.ch.lambdaj.function.aggregate.Min-11:fc
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-49:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-50:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-51:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-52:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-53:pc 
+target.ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-50:fc bfc 
+target.ch.lambdaj.util.iterator.IteratorFactory-51:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-52:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-53:pc bpc 
 target.ch.lambdaj.util.iterator.IteratorFactory-54:fc 
 target.ch.lambdaj.util.iterator.IteratorFactory-84:fc 
 target.ch.lambdaj.util.iterator.IteratorFactory-86:fc 
@@ -30,5 +30,5 @@ target.ch.lambdaj.util.iterator.IteratorFactory-88:fc
 target.ch.lambdaj.util.iterator.IteratorFactory-89:fc 
 target.ch.lambdaj.util.iterator.IteratorFactory-90:fc 
 target.ch.lambdaj.util.iterator.IteratorFactory-94:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-95:fc 
+target.ch.lambdaj.util.iterator.IteratorFactory-95:fc bfc 
 target.ch.lambdaj.util.iterator.IteratorFactory-96:fc 

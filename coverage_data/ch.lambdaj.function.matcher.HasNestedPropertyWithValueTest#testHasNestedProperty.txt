@@ -11,8 +11,8 @@ target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-50:fc
 target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-51:fc 
 target.ch.lambdaj.function.matcher.HasNestedPropertyWithValue-61:fc 
 target.ch.lambdaj.function.matcher.LambdaJMatcher-15:fc 
-target.ch.lambdaj.util.IntrospectionUtil-37:fc 
+target.ch.lambdaj.util.IntrospectionUtil-37:fc bfc 
 target.ch.lambdaj.util.IntrospectionUtil-38:fc 
-target.ch.lambdaj.util.IntrospectionUtil-39:fc 
+target.ch.lambdaj.util.IntrospectionUtil-39:fc bfc 
 target.ch.lambdaj.util.IntrospectionUtil-41:fc 
 target.ch.lambdaj.util.IntrospectionUtil-43:fc 

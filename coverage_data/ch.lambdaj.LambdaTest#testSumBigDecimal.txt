@@ -1,6 +1,6 @@
-target.ch.lambdaj.Lambda-504:pc 
-target.ch.lambdaj.Lambda-505:pc 
-target.ch.lambdaj.Lambda-506:pc 
+target.ch.lambdaj.Lambda-504:pc bpc 
+target.ch.lambdaj.Lambda-505:pc bpc 
+target.ch.lambdaj.Lambda-506:pc bpc 
 target.ch.lambdaj.Lambda-507:fc 
 target.ch.lambdaj.Lambda-510:fc 
 target.ch.lambdaj.Lambda-511:fc 
@@ -8,9 +8,9 @@ target.ch.lambdaj.Lambda-512:fc
 target.ch.lambdaj.Lambda-513:fc 
 target.ch.lambdaj.Lambda-525:fc 
 target.ch.lambdaj.Lambda-587:fc 
-target.ch.lambdaj.Lambda-604:pc 
+target.ch.lambdaj.Lambda-604:pc bpc 
 target.ch.lambdaj.Lambda-605:fc 
-target.ch.lambdaj.Lambda-606:pc 
+target.ch.lambdaj.Lambda-606:pc bpc 
 target.ch.lambdaj.function.aggregate.Chooser-12:fc 
 target.ch.lambdaj.function.aggregate.Concat-21:fc 
 target.ch.lambdaj.function.aggregate.Concat-22:fc 
@@ -25,20 +25,20 @@ target.ch.lambdaj.function.aggregate.Max-11:fc
 target.ch.lambdaj.function.aggregate.Min-11:fc 
 target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
 target.ch.lambdaj.function.aggregate.PairAggregator-23:fc 
-target.ch.lambdaj.function.aggregate.PairAggregator-24:pc 
+target.ch.lambdaj.function.aggregate.PairAggregator-24:pc bpc 
 target.ch.lambdaj.function.aggregate.PairAggregator-25:fc 
 target.ch.lambdaj.function.aggregate.Sum-19:fc 
 target.ch.lambdaj.function.aggregate.Sum-20:fc 
 target.ch.lambdaj.function.aggregate.Sum-27:fc 
 target.ch.lambdaj.function.aggregate.Sum-28:fc 
-target.ch.lambdaj.function.aggregate.Sum-37:pc 
-target.ch.lambdaj.function.aggregate.Sum-39:pc 
-target.ch.lambdaj.function.aggregate.Sum-40:pc 
-target.ch.lambdaj.function.aggregate.Sum-41:pc 
-target.ch.lambdaj.function.aggregate.Sum-42:pc 
-target.ch.lambdaj.function.aggregate.Sum-43:pc 
-target.ch.lambdaj.function.aggregate.Sum-44:pc 
-target.ch.lambdaj.function.aggregate.Sum-70:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-49:pc 
-target.ch.lambdaj.util.iterator.IteratorFactory-50:fc 
-target.ch.lambdaj.util.iterator.IteratorFactory-51:pc 
+target.ch.lambdaj.function.aggregate.Sum-37:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-39:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-40:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-41:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-42:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-43:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-44:pc bpc 
+target.ch.lambdaj.function.aggregate.Sum-70:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+target.ch.lambdaj.util.iterator.IteratorFactory-50:fc bfc 
+target.ch.lambdaj.util.iterator.IteratorFactory-51:pc bpc 
