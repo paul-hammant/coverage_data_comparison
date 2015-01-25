@@ -20,7 +20,7 @@ for testMethod in `cat coverage_data/list_of_test_methods.txt`; do
 
     op_file_name="coverage_data/${testMethod}.txt"
 
-	ack --noheading "id=\"L" --noignore-dir=target target | egrep -i "class=\"(pc|fc)" | sed 's/\.java.html:/-/' | sed 's#site/jacoco-ut/##' | sed 's#/#.#g' | sed 's/id=.*//' | sed 's/<span class=//' | sed 's/\"//g' | sed 's/ bpc//' | sed 's/ bfc//'> $op_file_name
+	ack --noheading "id=\"L" --noignore-dir=target target | egrep -i "class=\"(pc|fc)" | sed 's/\.java.html:/-/' | sed 's#site/jacoco-ut/##' | sed 's#/#.#g' | sed 's/id=.*//' | sed 's/<span class=//' | sed 's/\"//g' > $op_file_name
 
     [ -s $op_file_name ] || rm $op_file_name
 
