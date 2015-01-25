@@ -1,0 +1,12 @@
+target.ch.lambdaj.function.argument.InvocationSequence-20:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-52:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-54:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-55:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-56:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-57:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-101:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-110:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-111:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-112:fc 
+target.ch.lambdaj.function.argument.InvocationSequence-113:pc 
+target.ch.lambdaj.function.argument.InvocationSequence-117:fc 

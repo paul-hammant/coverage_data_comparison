@@ -1,0 +1,7 @@
+target.ch.lambdaj.function.aggregate.Chooser-12:fc 
+target.ch.lambdaj.function.aggregate.Chooser-22:pc 
+target.ch.lambdaj.function.aggregate.Chooser-23:fc 
+target.ch.lambdaj.function.aggregate.Chooser-24:fc 
+target.ch.lambdaj.function.aggregate.Min-11:fc 
+target.ch.lambdaj.function.aggregate.Min-22:pc 
+target.ch.lambdaj.function.aggregate.PairAggregator-14:fc 
