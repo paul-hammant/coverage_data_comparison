@@ -1,0 +1,87 @@
+1,19d0
+< ch.lambdaj.Lambda-510:fc 
+< ch.lambdaj.Lambda-511:fc 
+< ch.lambdaj.Lambda-512:fc 
+< ch.lambdaj.Lambda-513:fc 
+< ch.lambdaj.Lambda-1227:fc 
+< ch.lambdaj.function.aggregate.Chooser-12:fc 
+< ch.lambdaj.function.aggregate.Concat-21:fc 
+< ch.lambdaj.function.aggregate.Concat-22:fc 
+< ch.lambdaj.function.aggregate.Concat-28:fc 
+< ch.lambdaj.function.aggregate.Concat-29:fc 
+< ch.lambdaj.function.aggregate.Concat-30:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-19:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-20:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc 
+< ch.lambdaj.function.aggregate.Max-11:fc 
+< ch.lambdaj.function.aggregate.Min-11:fc 
+< ch.lambdaj.function.aggregate.PairAggregator-14:fc 
+< ch.lambdaj.function.aggregate.Sum-19:fc 
+< ch.lambdaj.function.aggregate.Sum-20:fc 
+22d2
+< ch.lambdaj.group.GroupCondition-25:fc 
+25,31d4
+< ch.lambdaj.group.GroupCondition-39:fc 
+< ch.lambdaj.group.GroupCondition-45:fc 
+< ch.lambdaj.group.GroupCondition-46:fc 
+< ch.lambdaj.group.GroupCondition-47:pc bpc 
+< ch.lambdaj.group.GroupCondition-50:fc 
+< ch.lambdaj.group.GroupCondition-69:pc bpc 
+< ch.lambdaj.group.GroupCondition-70:fc 
+35,82d7
+< ch.lambdaj.group.GroupImpl-17:fc 
+< ch.lambdaj.group.GroupImpl-23:fc 
+< ch.lambdaj.group.GroupImpl-24:fc 
+< ch.lambdaj.group.GroupImpl-25:fc 
+< ch.lambdaj.group.GroupImpl-28:fc 
+< ch.lambdaj.group.GroupImpl-29:fc 
+< ch.lambdaj.group.GroupImpl-30:fc 
+< ch.lambdaj.group.GroupImpl-33:pc bpc 
+< ch.lambdaj.group.GroupImpl-34:fc 
+< ch.lambdaj.group.GroupImpl-35:pc bpc 
+< ch.lambdaj.group.GroupImpl-39:fc 
+< ch.lambdaj.group.GroupImpl-40:fc 
+< ch.lambdaj.group.GroupImpl-41:fc 
+< ch.lambdaj.group.GroupImpl-42:fc 
+< ch.lambdaj.group.GroupImpl-53:fc 
+< ch.lambdaj.group.GroupImpl-54:fc 
+< ch.lambdaj.group.GroupItem-17:pc 
+< ch.lambdaj.group.GroupItem-19:pc 
+< ch.lambdaj.group.GroupItem-27:fc 
+< ch.lambdaj.group.GroupItem-28:fc 
+< ch.lambdaj.group.GroupItem-29:pc bpc 
+< ch.lambdaj.group.GroupItem-30:fc 
+< ch.lambdaj.group.GroupItem-33:fc 
+< ch.lambdaj.group.GroupItem-37:fc 
+< ch.lambdaj.group.GroupItem-42:fc 
+< ch.lambdaj.group.GroupItem-43:fc bfc 
+< ch.lambdaj.group.GroupItem-44:fc 
+< ch.lambdaj.group.GroupItem-45:fc 
+< ch.lambdaj.group.GroupItem-47:fc 
+< ch.lambdaj.group.GroupItem-63:fc 
+< ch.lambdaj.group.GroupItem-67:pc bpc 
+< ch.lambdaj.group.GroupItem-74:pc bpc 
+< ch.lambdaj.group.GroupItem-75:fc 
+< ch.lambdaj.group.GroupItem-76:fc 
+< ch.lambdaj.group.GroupItem-79:fc 
+< ch.lambdaj.group.GroupItem-80:fc 
+< ch.lambdaj.group.GroupItem-81:fc 
+< ch.lambdaj.group.GroupItem-82:fc 
+< ch.lambdaj.group.Groups-33:fc 
+< ch.lambdaj.group.Groups-56:fc 
+< ch.lambdaj.group.Groups-57:fc 
+< ch.lambdaj.group.Groups-58:fc bfc 
+< ch.lambdaj.group.Groups-60:fc bfc 
+< ch.lambdaj.group.Groups-61:fc 
+< ch.lambdaj.group.Groups-62:fc 
+< ch.lambdaj.group.Groups-63:fc bfc 
+< ch.lambdaj.group.Groups-66:fc 
+< ch.lambdaj.group.Groups-67:fc 
+89,95d13
+< ch.lambdaj.group.StringGroupCondition-37:fc 
+< ch.lambdaj.group.StringGroupCondition-41:fc 
+< ch.lambdaj.util.IntrospectionUtil-37:pc bpc 
+< ch.lambdaj.util.IntrospectionUtil-38:fc 
+< ch.lambdaj.util.IntrospectionUtil-39:pc bpc 
+< ch.lambdaj.util.IntrospectionUtil-41:fc 
+< ch.lambdaj.util.IntrospectionUtil-43:fc 

@@ -1,0 +1,68 @@
+1,8d0
+< ch.lambdaj.Lambda-510:fc 
+< ch.lambdaj.Lambda-511:fc 
+< ch.lambdaj.Lambda-512:fc 
+< ch.lambdaj.Lambda-513:fc 
+< ch.lambdaj.Lambda-556:fc 
+< ch.lambdaj.Lambda-573:fc 
+< ch.lambdaj.Lambda-902:fc 
+< ch.lambdaj.function.aggregate.Chooser-12:fc 
+30,87d21
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-19:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-20:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc 
+< ch.lambdaj.function.aggregate.Max-11:fc 
+< ch.lambdaj.function.aggregate.Min-11:fc 
+< ch.lambdaj.function.aggregate.PairAggregator-14:fc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-23:fc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-24:fc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-25:fc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-29:pc bpc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-34:pc bpc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-35:pc bpc 
+< ch.lambdaj.function.aggregate.ProxyAggregator-49:fc 
+< ch.lambdaj.function.aggregate.Sum-19:fc 
+< ch.lambdaj.function.aggregate.Sum-20:fc 
+< ch.lambdaj.proxy.InvocationInterceptor-15:fc 
+< ch.lambdaj.proxy.InvocationInterceptor-21:fc 
+< ch.lambdaj.proxy.ProxyIterator-25:fc 
+< ch.lambdaj.proxy.ProxyIterator-31:fc 
+< ch.lambdaj.proxy.ProxyIterator-32:fc 
+< ch.lambdaj.proxy.ProxyIterator-33:fc 
+< ch.lambdaj.proxy.ProxyIterator-51:pc bpc 
+< ch.lambdaj.proxy.ProxyIterator-52:fc 
+< ch.lambdaj.proxy.ProxyIterator-53:fc 
+< ch.lambdaj.proxy.ProxyIterator-54:fc 
+< ch.lambdaj.proxy.ProxyIterator-55:fc bfc 
+< ch.lambdaj.proxy.ProxyIterator-57:fc 
+< ch.lambdaj.proxy.ProxyIterator-69:fc 
+< ch.lambdaj.proxy.ProxyIterator-71:fc 
+< ch.lambdaj.proxy.ProxyUtil-45:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-46:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-48:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-49:fc 
+< ch.lambdaj.proxy.ProxyUtil-55:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-75:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-76:fc 
+< ch.lambdaj.proxy.ProxyUtil-80:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-81:fc 
+< ch.lambdaj.proxy.ProxyUtil-89:fc 
+< ch.lambdaj.proxy.ProxyUtil-90:fc 
+< ch.lambdaj.proxy.ProxyUtil-91:fc 
+< ch.lambdaj.proxy.ProxyUtil-92:pc bpc 
+< ch.lambdaj.proxy.ProxyUtil-93:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-23:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-32:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-34:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-35:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-68:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-69:pc bpc 
+< ch.lambdaj.util.iterator.ResettableIterator-13:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-23:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-24:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-25:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-26:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-32:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-33:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-39:fc 
+< ch.lambdaj.util.iterator.ResettableIteratorOnIterable-46:fc 

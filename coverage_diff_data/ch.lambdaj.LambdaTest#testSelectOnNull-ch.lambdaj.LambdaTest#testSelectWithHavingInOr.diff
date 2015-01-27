@@ -1,0 +1,32 @@
+3a4,8
+> ch.lambdaj.Lambda-330:fc bfc 
+> ch.lambdaj.Lambda-331:fc 
+> ch.lambdaj.Lambda-332:fc bfc 
+> ch.lambdaj.Lambda-333:fc 
+> ch.lambdaj.Lambda-334:fc 
+4a10
+> ch.lambdaj.Lambda-345:fc 
+26a33
+> ch.lambdaj.function.argument.Argument-41:fc 
+66a74
+> ch.lambdaj.function.argument.Invocation-45:pc bpc 
+68a77
+> ch.lambdaj.function.argument.Invocation-72:pc bpc 
+99a109,114
+> ch.lambdaj.function.argument.InvocationSequence-121:pc bpc 
+> ch.lambdaj.function.argument.InvocationSequence-131:fc 
+> ch.lambdaj.function.argument.InvocationSequence-135:fc 
+> ch.lambdaj.function.argument.InvocationSequence-139:pc bpc 
+> ch.lambdaj.function.argument.InvocationSequence-140:pc bpc 
+> ch.lambdaj.function.argument.InvocationSequence-141:fc 
+110a126,127
+> ch.lambdaj.function.matcher.HasArgumentWithValue-31:pc bpc 
+> ch.lambdaj.function.matcher.HasArgumentWithValue-33:fc 
+114a132,138
+> ch.lambdaj.function.matcher.LambdaJMatcher-34:fc 
+> ch.lambdaj.function.matcher.OrMatcher-17:fc 
+> ch.lambdaj.function.matcher.OrMatcher-18:fc 
+> ch.lambdaj.function.matcher.OrMatcher-19:fc 
+> ch.lambdaj.function.matcher.OrMatcher-25:fc bfc 
+> ch.lambdaj.function.matcher.OrMatcher-26:fc 
+> ch.lambdaj.function.matcher.OrMatcher-36:fc 

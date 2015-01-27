@@ -1,0 +1,21 @@
+1,9d0
+< ch.lambdaj.Lambda-510:fc 
+< ch.lambdaj.Lambda-511:fc 
+< ch.lambdaj.Lambda-512:fc 
+< ch.lambdaj.Lambda-513:fc 
+< ch.lambdaj.Lambda-525:fc 
+< ch.lambdaj.Lambda-984:fc 
+< ch.lambdaj.Lambda-997:pc bpc 
+< ch.lambdaj.Lambda-999:fc 
+< ch.lambdaj.function.aggregate.Chooser-12:fc 
+31,40d21
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-19:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-20:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc 
+< ch.lambdaj.function.aggregate.Max-11:fc 
+< ch.lambdaj.function.aggregate.Min-11:fc 
+< ch.lambdaj.function.aggregate.PairAggregator-14:fc 
+< ch.lambdaj.function.aggregate.Sum-19:fc 
+< ch.lambdaj.function.aggregate.Sum-20:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

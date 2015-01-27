@@ -1,0 +1,63 @@
+10a11
+> ch.lambdaj.Lambda-484:fc 
+14a16
+> ch.lambdaj.Lambda-525:fc 
+15a18,49
+> ch.lambdaj.collection.AbstractLambdaCollection-29:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-35:pc bpc 
+> ch.lambdaj.collection.AbstractLambdaCollection-36:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-39:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-40:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-44:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-45:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-48:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-49:fc 
+> ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
+> ch.lambdaj.collection.AbstractLambdaCollection-112:fc 
+> ch.lambdaj.collection.LambdaCollection-23:fc 
+> ch.lambdaj.collection.LambdaCollection-24:fc 
+> ch.lambdaj.collection.LambdaCollection-27:fc 
+> ch.lambdaj.collection.LambdaCollection-201:fc 
+> ch.lambdaj.collection.LambdaCollections-34:fc 
+> ch.lambdaj.collection.LambdaIterable-27:fc 
+> ch.lambdaj.collection.LambdaIterable-28:fc 
+> ch.lambdaj.collection.LambdaIterable-101:fc 
+> ch.lambdaj.collection.LambdaIterable-102:fc 
+> ch.lambdaj.collection.LambdaIterable-250:fc 
+> ch.lambdaj.collection.LambdaList-22:fc 
+> ch.lambdaj.collection.LambdaList-23:fc 
+> ch.lambdaj.collection.LambdaList-26:fc 
+> ch.lambdaj.collection.LambdaList-33:fc 
+> ch.lambdaj.collection.LambdaList-34:fc 
+> ch.lambdaj.collection.LambdaList-122:fc 
+> ch.lambdaj.collection.LambdaList-179:fc 
+> ch.lambdaj.collection.LambdaList-188:fc 
+16a51,62
+> ch.lambdaj.function.aggregate.Chooser-22:fc bfc 
+> ch.lambdaj.function.aggregate.Chooser-23:pc bpc 
+> ch.lambdaj.function.aggregate.Chooser-24:fc 
+> ch.lambdaj.function.aggregate.Chooser-40:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-22:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-23:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-24:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-34:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-35:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-36:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-37:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-38:fc 
+26a73,75
+> ch.lambdaj.function.aggregate.MinOnArgument-18:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-19:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-32:fc bfc 
+27a77,79
+> ch.lambdaj.function.aggregate.PairAggregator-23:fc 
+> ch.lambdaj.function.aggregate.PairAggregator-24:pc bpc 
+> ch.lambdaj.function.aggregate.PairAggregator-25:fc 
+136a189,192
+> ch.lambdaj.util.IntrospectionUtil-162:pc bpc 
+> ch.lambdaj.util.IntrospectionUtil-164:fc 
+> ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+> ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

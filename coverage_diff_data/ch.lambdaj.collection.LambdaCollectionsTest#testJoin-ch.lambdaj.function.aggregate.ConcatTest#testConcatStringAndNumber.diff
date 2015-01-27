@@ -1,0 +1,68 @@
+1,22d0
+< ch.lambdaj.Lambda-510:fc 
+< ch.lambdaj.Lambda-511:fc 
+< ch.lambdaj.Lambda-512:fc 
+< ch.lambdaj.Lambda-513:fc 
+< ch.lambdaj.Lambda-525:fc 
+< ch.lambdaj.Lambda-984:fc 
+< ch.lambdaj.Lambda-997:pc bpc 
+< ch.lambdaj.Lambda-999:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-29:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
+< ch.lambdaj.collection.AbstractLambdaCollection-130:fc 
+< ch.lambdaj.collection.LambdaCollection-23:fc 
+< ch.lambdaj.collection.LambdaCollection-24:fc 
+< ch.lambdaj.collection.LambdaCollections-43:fc 
+< ch.lambdaj.collection.LambdaIterable-27:fc 
+< ch.lambdaj.collection.LambdaIterable-28:fc 
+< ch.lambdaj.collection.LambdaList-22:fc 
+< ch.lambdaj.collection.LambdaList-23:fc 
+< ch.lambdaj.function.aggregate.Chooser-12:fc 
+44,53d21
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-19:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-20:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc 
+< ch.lambdaj.function.aggregate.Max-11:fc 
+< ch.lambdaj.function.aggregate.Min-11:fc 
+< ch.lambdaj.function.aggregate.PairAggregator-14:fc 
+< ch.lambdaj.function.aggregate.Sum-19:fc 
+< ch.lambdaj.function.aggregate.Sum-20:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 
+1,22d0
+< ch.lambdaj.Lambda-510:fc 
+< ch.lambdaj.Lambda-511:fc 
+< ch.lambdaj.Lambda-512:fc 
+< ch.lambdaj.Lambda-513:fc 
+< ch.lambdaj.Lambda-525:fc 
+< ch.lambdaj.Lambda-984:fc 
+< ch.lambdaj.Lambda-997:pc bpc 
+< ch.lambdaj.Lambda-999:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-29:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-30:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-31:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-32:fc 
+< ch.lambdaj.collection.AbstractLambdaCollection-52:pc bpc 
+< ch.lambdaj.collection.AbstractLambdaCollection-130:fc 
+< ch.lambdaj.collection.LambdaCollection-23:fc 
+< ch.lambdaj.collection.LambdaCollection-24:fc 
+< ch.lambdaj.collection.LambdaCollections-43:fc 
+< ch.lambdaj.collection.LambdaIterable-27:fc 
+< ch.lambdaj.collection.LambdaIterable-28:fc 
+< ch.lambdaj.collection.LambdaList-22:fc 
+< ch.lambdaj.collection.LambdaList-23:fc 
+< ch.lambdaj.function.aggregate.Chooser-12:fc 
+44,53d21
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-19:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-20:fc 
+< ch.lambdaj.function.aggregate.InitializedPairAggregator-21:fc 
+< ch.lambdaj.function.aggregate.Max-11:fc 
+< ch.lambdaj.function.aggregate.Min-11:fc 
+< ch.lambdaj.function.aggregate.PairAggregator-14:fc 
+< ch.lambdaj.function.aggregate.Sum-19:fc 
+< ch.lambdaj.function.aggregate.Sum-20:fc 
+< ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+< ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 

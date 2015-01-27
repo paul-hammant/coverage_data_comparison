@@ -1,0 +1,56 @@
+10a11
+> ch.lambdaj.Lambda-484:fc 
+14a16
+> ch.lambdaj.Lambda-525:fc 
+16a19,30
+> ch.lambdaj.function.aggregate.Chooser-22:fc bfc 
+> ch.lambdaj.function.aggregate.Chooser-23:pc bpc 
+> ch.lambdaj.function.aggregate.Chooser-24:fc 
+> ch.lambdaj.function.aggregate.Chooser-40:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-22:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-23:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-24:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-34:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-35:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-36:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-37:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-38:fc 
+26a41,43
+> ch.lambdaj.function.aggregate.MinOnArgument-18:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-19:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-32:fc bfc 
+27a45,47
+> ch.lambdaj.function.aggregate.PairAggregator-23:fc 
+> ch.lambdaj.function.aggregate.PairAggregator-24:pc bpc 
+> ch.lambdaj.function.aggregate.PairAggregator-25:fc 
+136a157,158
+> ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+> ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 
+10a11
+> ch.lambdaj.Lambda-484:fc 
+14a16
+> ch.lambdaj.Lambda-525:fc 
+16a19,30
+> ch.lambdaj.function.aggregate.Chooser-22:fc bfc 
+> ch.lambdaj.function.aggregate.Chooser-23:pc bpc 
+> ch.lambdaj.function.aggregate.Chooser-24:fc 
+> ch.lambdaj.function.aggregate.Chooser-40:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-22:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-23:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-24:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-34:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-35:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-36:fc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-37:pc bpc 
+> ch.lambdaj.function.aggregate.ChooserOnArgument-38:fc 
+26a41,43
+> ch.lambdaj.function.aggregate.MinOnArgument-18:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-19:fc 
+> ch.lambdaj.function.aggregate.MinOnArgument-32:fc bfc 
+27a45,47
+> ch.lambdaj.function.aggregate.PairAggregator-23:fc 
+> ch.lambdaj.function.aggregate.PairAggregator-24:pc bpc 
+> ch.lambdaj.function.aggregate.PairAggregator-25:fc 
+136a157,158
+> ch.lambdaj.util.iterator.IteratorFactory-49:pc bpc 
+> ch.lambdaj.util.iterator.IteratorFactory-50:pc bpc 
